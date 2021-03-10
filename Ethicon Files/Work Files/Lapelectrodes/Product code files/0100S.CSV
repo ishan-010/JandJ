@@ -1,0 +1,6 @@
+Name,Title,Type,Revision,Class,Lifecycle State,Scanned In,Checked Out?,Modified Date,Owner Name
+"SPE003843,C,2,0100S Megadyne Product Master Data Specification",0100S Megadyne Product Master Data Specification,Product Master Data Specification,C,Specification,Released, ,NO,08/25/2020 15:08:52:205,Release
+"SPE003843,A,2,0100S Megadyne Product Master Data Specification",0100S Megadyne Product Master Data Specification,Product Master Data Specification,A,Specification,Released, ,NO,08/25/2020 15:08:49:893,Release
+"SPE003843,B,2,0100S Megadyne Product Master Data Specification",0100S Megadyne Product Master Data Specification,Product Master Data Specification,B,Specification,Released, ,NO,08/25/2020 15:08:49:502,Release
+"DR000840,A,2,Update Megadyne Product Labeling",Update Megadyne Product Labeling,PCO,A,Design Requirement,Released, ,NO,08/19/2020 14:11:08:923,Release
+"SCN076749,A,3,Update Megadyne Labeling per International Labeling Requirements (RA-DOC-023)",Update Megadyne Labeling per International Labeling Requirements (RA-DOC-023),ECR/ECP supportive documents,A,Scanned (Hardcopy) Item,Released, ,NO,07/02/2020 11:50:14:351,Release
